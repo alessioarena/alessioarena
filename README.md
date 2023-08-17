@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/alessioarena">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessioarena&count_private=true&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-ashen-psi-79.vercel.app/api/top-langs/?username=alessioarena&count_private=true&show_icons=true&theme=transparent&hide=jupyter%20notebook" />
 </a>
 
 <a href="https://github.com/alessioarena">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessioarena&count_private=true&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-ashen-psi-79.vercel.app/api?username=alessioarena&count_private=true&show_icons=true&theme=transparent" />
 </a>
 <div style="background-color:white;">
   <h3 align="left" style="background-color:white;">Languages and Tools:</h3>
